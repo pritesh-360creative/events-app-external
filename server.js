@@ -1,6 +1,7 @@
 'use strict';
 
 //Adding a new useless comment to check in a new branch
+//Adding new comment to check git pull
 
 console.log(`process.env.SERVER = ${process.env.SERVER}`);
 // get the environment variable, but default to localhost:8082 if its not set
