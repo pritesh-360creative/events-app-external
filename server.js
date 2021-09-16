@@ -1,5 +1,7 @@
 'use strict';
 
+//Adding a new useless comment to check in a new branch
+
 console.log(`process.env.SERVER = ${process.env.SERVER}`);
 // get the environment variable, but default to localhost:8082 if its not set
 const SERVER = process.env.SERVER ? process.env.SERVER : "http://localhost:8082";
